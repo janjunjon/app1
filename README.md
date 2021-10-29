@@ -19,7 +19,6 @@
 * また、実際の学位論文はPDF形式の為、PDFをダウンロードできる機能を付けました。
 ![Image 2](app/assets/images/lagis-index03.png)
 
-
 **機能(代表的なもののみ)**
 * ユーザーログイン
 * ユーザーCRUD

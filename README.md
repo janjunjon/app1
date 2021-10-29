@@ -14,9 +14,9 @@
 * http://lagis-index.com (※認証コード："lagis_info")
 
 **アピールポイント**
-* 実際に学生に使ってもらうことを想定した時、関係者以外見れないように認証機能を付けました。（以下図1）
-![Image 1](app/assets/images/lagis-index02.png)
-* また、実際の学位論文はPDF形式の為、PDFをダウンロードできる機能を付けました。
+* 実際に学生に使ってもらうことを想定した時、関係者以外見れないように認証機能を付けました。
+![Image 1](app/assets/images/lagis-index02.png)  
+* また、実際の学位論文はPDF形式の為、PDFをダウンロードできる機能を付けました。 
 ![Image 2](app/assets/images/lagis-index03.png)
 
 **機能(代表的なもののみ)**

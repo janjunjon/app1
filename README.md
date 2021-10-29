@@ -19,7 +19,12 @@
 ![Image 1](app/assets/images/lagis-index02.png)
 
 
-* また、実際の学位論文はPDF形式の為、PDFをダウンロードできる機能を付けました。
+* また、キーワードなどで簡単に論文を調べられるように検索機能を付けました。
+
+![Image 3](app/assets/images/lagis-index04.png)
+
+
+* さらに、実際の学位論文はPDF形式の為、本編をダウンロードできる機能を付けました。
 
 ![Image 2](app/assets/images/lagis-index03.png)
 

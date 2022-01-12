@@ -13,20 +13,22 @@
 **サイトURL、プレビュー**
 * http://lagis-index.com (※認証コード："lagis_info")
 
-**アピールポイント**
-* 実際に学生に使ってもらうことを想定した時、関係者以外見れないように認証機能を付けました。
-
-![Image 1](app/assets/images/lagis-index02.png)
-
-
-* また、キーワードなどで簡単に論文を調べられるように検索機能を付けました。
-
-![Image 3](app/assets/images/lagis-index04.png)
-
-
-* さらに、実際の学位論文はPDF形式の為、本編をダウンロードできる機能を付けました。
-
-![Image 2](app/assets/images/lagis-index03.png)
+[](
+**アピールポイント**\
+* 実際に学生に使ってもらうことを想定した時、関係者以外見れないように認証機能を付けました。\
+\
+![Image 1](app/assets/images/lagis-index02.png)\
+\
+\
+* また、キーワードなどで簡単に論文を調べられるように検索機能を付けました。\
+\
+![Image 3](app/assets/images/lagis-index04.png)\
+\
+\
+* さらに、実際の学位論文はPDF形式の為、本編をダウンロードできる機能を付けました。\
+\
+![Image 2](app/assets/images/lagis-index03.png)\
+)
 
 **機能(代表的なもののみ)**
 * ユーザーログイン
